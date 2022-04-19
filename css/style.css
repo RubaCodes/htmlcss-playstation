@@ -18,6 +18,7 @@
 .btn {
     border-radius: 20px;
     text-transform: capitalize;
+    margin: 10px 0;
 }
 
 .btn_black {
@@ -34,13 +35,15 @@
     background-color: #2d64e6;
     color: white;
 }
+
 .btn_grey {
     background-color: #d9dadc;
     color: #3066e6;
 }
+
 .btn_white {
     background-color: white;
-    color:black;
+    color: black;
 }
 
 /* MAIN */
@@ -92,14 +95,21 @@ main {
 }
 
 /* PS PLUS */
-.ps_plus{
+.ps_plus {
     background-color: #bebcbb;
 }
-.ps-plus-logo{
+
+.ps-plus-logo {
     width: 60%;
 }
+
 /* PS-NOW */
-.ps_now{
+.ps_now {
     background-color: #161c3b;
     color: white;
+}
+
+/* SOCIALS */
+.container_custom{
+/* da implementare un container kustom da sm? */
 }
