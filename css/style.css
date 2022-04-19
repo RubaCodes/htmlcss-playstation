@@ -41,8 +41,10 @@ main{
     position: absolute;
     z-index: -1;
     height: 100%;
-    /* object-position: center;
-    object-fit: contain; */
+}
+.hero_jumbo img{
+    object-fit: cover;
+    object-position: center;
 }
 .hero_text{
         padding-top: 350px;
