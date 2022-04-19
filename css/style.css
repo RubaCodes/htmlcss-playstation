@@ -38,6 +38,10 @@
     background-color: #d9dadc;
     color: #3066e6;
 }
+.btn_white {
+    background-color: white;
+    color:black;
+}
 
 /* MAIN */
 main {
@@ -93,4 +97,9 @@ main {
 }
 .ps-plus-logo{
     width: 60%;
+}
+/* PS-NOW */
+.ps_now{
+    background-color: #161c3b;
+    color: white;
 }
