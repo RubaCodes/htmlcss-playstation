@@ -51,10 +51,8 @@ main{
 }
 .hero_text{
     position: absolute;
-     top: 250px;/*
-    bottom: 0;
-    right: 0;
-    left: 0; */
+     top: 250px;
+
 }
 .hero_carousel img{
  border-radius: 20px;
