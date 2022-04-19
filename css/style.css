@@ -11,3 +11,39 @@
 .header_right img {
     height: 30px;
 }
+
+/* BUTTONS */
+.btn{
+border-radius: 20px;
+text-transform: capitalize;
+}
+.btn_black{
+    background-color: #363636;
+    color: white;
+}
+.btn_orange{
+    background-color: #cd3d0f;
+    color: white;
+}
+
+/* MAIN */
+main{
+    margin-top: 116px;
+}
+/* HERO */
+.hero{   
+    position: relative;
+}
+.hero_logo{
+    max-width: 250px;
+}
+.hero_jumbo{
+    position: absolute;
+    z-index: -1;
+    height: 100%;
+    /* object-position: center;
+    object-fit: contain; */
+}
+.hero_text{
+        padding-top: 350px;
+}
