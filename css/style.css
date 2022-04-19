@@ -113,3 +113,14 @@ main {
 .container_custom{
 /* da implementare un container kustom da sm? */
 }
+/* FOOTER */
+footer{
+    background-color: #00439c;
+    color: white;
+}
+/* FOOTER TOP */
+
+/* FOOTER BOTTOM */
+.footer_bottom img {
+    width: 140px;
+}
