@@ -1,6 +1,13 @@
+/* HEADER */
+
+/* HEADER_TOP */
 .header_top {
     height: 40px;
 }
 .header_top .logo_header{
     height: 60%;
+}
+/* HEADER_BOTTOM */
+.header_right img {
+    height: 30px;
 }
