@@ -25,6 +25,10 @@ text-transform: capitalize;
     background-color: #cd3d0f;
     color: white;
 }
+.btn_blue{
+    background-color: #2d64e6;
+    color: white;
+}
 
 /* MAIN */
 main{
