@@ -37,12 +37,16 @@ main{
 .hero_logo{
     max-width: 250px;
 }
-.hero_jumbo{
-    
+.hero_jumbo{  
     height: 100%;
 }
+.hero_jumbo img{
+ /* fixare l'immagine */
+}
 .hero_text{
-        position: absolute;
-        top: 350px;
-
+    position: absolute;
+    top: 350px;
+}
+.hero_carousel img{
+ border-radius: 20px;
 }
