@@ -152,18 +152,11 @@ main {
 /* PS-NOW */
 .ps_now {
     background-color: #161c3b;
-    color: white;
-}
-
-/* SOCIALS */
-.container_custom {
-    /* da implementare un container kustom da sm? */
 }
 
 /* FOOTER */
 footer {
     background-color: #00439c;
-    color: white;
 }
 
 footer ul {
@@ -182,8 +175,4 @@ footer ul li a {
 /* FOOTER BOTTOM */
 .footer_bottom img {
     width: 140px;
-}
-
-.footer_bottom a {
-    color: white;
 }
