@@ -69,9 +69,13 @@ main {
     object-fit: cover;
 }
 
-.hero  .container .row .col-12{
+.hero .container .row .col-12{
     position: absolute;
     top: 150px;
+}
+.hero .container .row .col{
+    position: absolute;
+    top: 90px;
 }
 
 .hero_carousel img {
