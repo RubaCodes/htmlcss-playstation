@@ -76,14 +76,14 @@ main {
 /* fix colonna absolute sezione it takes two */
 .hero .container .row .col{
     position: absolute;
-    top: 90px;
+    top: 50px;
 }
 
 .hero_carousel img {
     border-radius: 20px;
 }
 
-/* PLAY_N */
+/* PLAY_5 */
 .play_5_carousel img {
     width: 70%;
     opacity: 0.7;
@@ -122,7 +122,16 @@ footer{
     background-color: #00439c;
     color: white;
 }
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+}
 /* FOOTER TOP */
+.footer_top .globe {
+    width: 5%;
+}
 
 /* FOOTER BOTTOM */
 .footer_bottom img {
