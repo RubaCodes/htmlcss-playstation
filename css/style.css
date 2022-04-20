@@ -52,30 +52,11 @@ main {
 }
 
 /* HERO */
-.hero {
-    position: relative;
+.hero_jumbo {
+    background-image: url("../img/jumbo-bg.png");
+
 }
 
-.hero_logo {
-    max-width: 250px;
-}
-
-/* .hero_jumbo{  
-    height: 70vh;
-} */
-.hero_jumbo img {
-    object-fit: cover;
-}
-/* fix colonna absolute returnal */
-.hero .container .row .col-12{
-    position: absolute;
-    top: 200px;
-}
-/* fix colonna absolute sezione it takes two */
-.hero .container .row .col{
-    position: absolute;
-    top: 50px;
-}
 
 .hero_carousel img {
     border-radius: 20px;
