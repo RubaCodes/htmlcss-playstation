@@ -64,8 +64,6 @@ main {
     height: 70vh;
 } */
 .hero_jumbo img {
-    width: 100%;
-    height: 60vh;
     object-fit: cover;
 }
 /* fix colonna absolute returnal */
