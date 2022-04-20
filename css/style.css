@@ -20,6 +20,10 @@
     text-transform: capitalize;
     margin: 10px 0;
 }
+.btn:hover {
+    color: inherit;
+    scale: 1.1;
+}
 
 .btn_black {
     background-color: #363636;
@@ -78,6 +82,11 @@ main {
 
 .hero_carousel img {
     border-radius: 20px;
+    border: 2px solid transparent;
+}
+.hero_carousel img:hover {
+    border: 2px solid #00439c;
+    padding: 2px;
 }
 
 /* PLAY_5 */
