@@ -61,6 +61,7 @@ main {
     padding-top: 200px;
     padding-bottom: 50px;
 }
+
 .hero_jumbo_it2 {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-position: center;
@@ -70,7 +71,8 @@ main {
     padding-top: 100px;
     padding-bottom: 50px;
 }
-.hero_text img{
+
+.hero_text img {
     width: 250px;
 }
 
@@ -83,9 +85,11 @@ main {
     opacity: 0.7;
     border-bottom: 2px solid transparent;
 }
+
 .play_5_carousel img {
     width: 70%;
 }
+
 .play_5_card:hover {
     opacity: 1;
     border-bottom: 2px solid #2d64e6;
@@ -115,20 +119,24 @@ main {
 }
 
 /* SOCIALS */
-.container_custom{
-/* da implementare un container kustom da sm? */
+.container_custom {
+    /* da implementare un container kustom da sm? */
 }
+
 /* FOOTER */
-footer{
+footer {
     background-color: #00439c;
     color: white;
 }
-footer ul{
+
+footer ul {
     list-style: none;
 }
-footer ul li a{
+
+footer ul li a {
     text-decoration: none;
 }
+
 /* FOOTER TOP */
 .footer_top .globe {
     width: 5%;
@@ -138,6 +146,7 @@ footer ul li a{
 .footer_bottom img {
     width: 140px;
 }
+
 .footer_bottom a {
     color: white;
 }
