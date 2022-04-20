@@ -68,11 +68,12 @@ main {
     height: 60vh;
     object-fit: cover;
 }
-
+/* fix colonna absolute returnal */
 .hero .container .row .col-12{
     position: absolute;
-    top: 150px;
+    top: 200px;
 }
+/* fix colonna absolute sezione it takes two */
 .hero .container .row .col{
     position: absolute;
     top: 90px;
