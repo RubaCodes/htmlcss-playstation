@@ -69,10 +69,9 @@ main {
     object-fit: cover;
 }
 
-.hero_text {
+.hero  .container .row .col-12{
     position: absolute;
     top: 150px;
-
 }
 
 .hero_carousel img {
