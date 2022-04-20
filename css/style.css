@@ -27,6 +27,7 @@
     background-color: #363636;
     color: white;
 }
+
 .btn_black:hover {
     border: 2px solid white;
     outline: 2px solid black;
@@ -37,6 +38,7 @@
     background-color: #cd3d0f;
     color: white;
 }
+
 .btn_orange:hover {
     border: 2px solid black;
     outline: 2px solid #cd3d0f;
@@ -47,6 +49,7 @@
     background-color: #2d64e6;
     color: white;
 }
+
 .btn_blue:hover {
     border: 2px solid white;
     outline: 2px solid #2d64e6;
@@ -68,6 +71,7 @@
     background-color: white;
     color: black;
 }
+
 .btn_white:hover {
     border: 2px solid #161c3b;
     outline: 2px solid white;
@@ -111,11 +115,13 @@ main {
     transform: translatey(0%);
     transition: transform 0.5s;
 }
+
 .hero_carousel img:hover {
     border: 2px solid #00439c;
     padding: 2px;
-    transform: translatey(-15%);  
+    transform: translatey(-15%);
 }
+
 
 /* PLAY_5 */
 .play_5_card {
@@ -153,7 +159,11 @@ main {
 .ps_now {
     background-color: #161c3b;
 }
-
+/* SOCIALS */
+.container_custom{
+    width: 50%;
+    margin: auto;
+}
 /* FOOTER */
 footer {
     background-color: #00439c;
