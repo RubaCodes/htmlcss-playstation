@@ -81,12 +81,17 @@ main {
 }
 
 .hero_carousel img {
+    padding: 2px;
     border-radius: 20px;
     border: 2px solid transparent;
+    transform: translatey(0%);
+    transition: transform 0.5s;
 }
 .hero_carousel img:hover {
     border: 2px solid #00439c;
     padding: 2px;
+    transform: translatey(-30%);
+    
 }
 
 /* PLAY_5 */
