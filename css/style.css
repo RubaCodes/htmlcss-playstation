@@ -54,7 +54,7 @@ main {
 /* HERO */
 .hero_jumbo_returnal {
     background-image: url("../img/jumbo-bg.png");
-    /* background-position: center; */
+    background-position: center;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -63,7 +63,7 @@ main {
 }
 .hero_jumbo_it2 {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
-    /* background-position: center; */
+    background-position: center;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -73,7 +73,6 @@ main {
 .hero_text img{
     width: 250px;
 }
-
 
 .hero_carousel img {
     border-radius: 20px;
