@@ -19,14 +19,17 @@
     border-radius: 20px;
     text-transform: capitalize;
     margin: 10px 0;
-}
-.btn:hover {
-    color: inherit;
-    scale: 1.1;
+    border: 2px solid transparent;
+    outline: 2px solid transparent;
 }
 
 .btn_black {
     background-color: #363636;
+    color: white;
+}
+.btn_black:hover {
+    border: 2px solid white;
+    outline: 2px solid black;
     color: white;
 }
 
@@ -34,9 +37,19 @@
     background-color: #cd3d0f;
     color: white;
 }
+.btn_orange:hover {
+    border: 2px solid black;
+    outline: 2px solid #cd3d0f;
+    color: white;
+}
 
 .btn_blue {
     background-color: #2d64e6;
+    color: white;
+}
+.btn_blue:hover {
+    border: 2px solid white;
+    outline: 2px solid #2d64e6;
     color: white;
 }
 
@@ -45,8 +58,19 @@
     color: #3066e6;
 }
 
+.btn_grey:hover {
+    border: 2px solid white;
+    outline: 2px solid #3066e6;
+    color: #3066e6;
+}
+
 .btn_white {
     background-color: white;
+    color: black;
+}
+.btn_white:hover {
+    border: 2px solid #161c3b;
+    outline: 2px solid white;
     color: black;
 }
 
@@ -90,8 +114,7 @@ main {
 .hero_carousel img:hover {
     border: 2px solid #00439c;
     padding: 2px;
-    transform: translatey(-30%);
-    
+    transform: translatey(-15%);  
 }
 
 /* PLAY_5 */
