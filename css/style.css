@@ -146,6 +146,13 @@ main {
     background-color: #1f1f1f;
 }
 
+/* PLAY_4 */
+.play_4_card{
+    height: 100%;
+
+}
+
+
 /* PS PLUS */
 .ps_plus {
     background-color: #bebcbb;
