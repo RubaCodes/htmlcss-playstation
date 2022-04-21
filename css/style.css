@@ -19,7 +19,6 @@
     border-radius: 20px;
     text-transform: capitalize;
     margin: 10px 0;
-    border: 2px solid transparent;
     outline: 2px solid transparent;
 }
 
@@ -29,8 +28,8 @@
 }
 
 .btn_black:hover {
-    border: 2px solid white;
     outline: 2px solid black;
+    outline-offset: 2px;
     color: white;
 }
 
@@ -40,7 +39,7 @@
 }
 
 .btn_orange:hover {
-    border: 2px solid black;
+    outline-offset: 2px;
     outline: 2px solid #cd3d0f;
     color: white;
 }
@@ -51,7 +50,7 @@
 }
 
 .btn_blue:hover {
-    border: 2px solid white;
+    outline-offset: 2px;
     outline: 2px solid #2d64e6;
     color: white;
 }
@@ -62,7 +61,7 @@
 }
 
 .btn_grey:hover {
-    border: 2px solid white;
+    outline-offset: 2px;
     outline: 2px solid #3066e6;
     color: #3066e6;
 }
@@ -73,7 +72,7 @@
 }
 
 .btn_white:hover {
-    border: 2px solid #161c3b;
+    outline-offset: 2px;
     outline: 2px solid white;
     color: black;
 }
@@ -129,7 +128,9 @@ main {
     border-bottom: 2px solid transparent;
     height: 100%;
 }
-
+.play_5_header h5 {
+    color: #2d64e6;
+}
 .play_5_carousel img {
     width: 70%;
 }
