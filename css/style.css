@@ -128,9 +128,11 @@ main {
     border-bottom: 2px solid transparent;
     height: 100%;
 }
+
 .play_5_header h5 {
     color: #2d64e6;
 }
+
 .play_5_carousel img {
     width: 70%;
 }
@@ -147,7 +149,7 @@ main {
 }
 
 /* PLAY_4 */
-.play_4_card{
+.play_4_card {
     height: 100%;
 
 }
@@ -166,11 +168,13 @@ main {
 .ps_now {
     background-color: #161c3b;
 }
+
 /* SOCIALS */
-.container_custom{
+.container_custom {
     width: 70%;
     margin: auto;
 }
+
 /* FOOTER */
 footer {
     background-color: #00439c;
